@@ -5,7 +5,7 @@ function wepay_config() {
     $configarray = array(
         "FriendlyName"  => array(
             "Type"  => "System",
-            "Value" => "Pay.js微信支付"
+            "Value" => "PAYJS微信支付"
         ),
         "key" => array(
             "FriendlyName" => "密钥",
