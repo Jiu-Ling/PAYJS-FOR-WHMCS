@@ -5,7 +5,6 @@
 JSAPI
 退款
 https://my.l3.ee/cart.php?pid=130&a=add
-👆👆👆
 ## 使用方法：
 插件解压至WHMCS根目录后
 到后台-支付接口-点击“Pay.js微信支付”开启接口后，
